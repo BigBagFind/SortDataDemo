@@ -1,0 +1,1918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>LETTER</key>
+		<string>ba jiao jin pan</string>
+		<key>NAME</key>
+		<string>八角金盘</string>
+		<key>SEDID</key>
+		<integer>10173</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ba xian hua</string>
+		<key>NAME</key>
+		<string>八仙花</string>
+		<key>SEDID</key>
+		<integer>10114</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>bai la</string>
+		<key>NAME</key>
+		<string>白蜡</string>
+		<key>SEDID</key>
+		<integer>10171</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>bai pi song</string>
+		<key>NAME</key>
+		<string>白皮松</string>
+		<key>SEDID</key>
+		<integer>10030</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>bai yu lan (yu lan)</string>
+		<key>NAME</key>
+		<string>白玉兰(玉兰)</string>
+		<key>SEDID</key>
+		<integer>10071</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ban li</string>
+		<key>NAME</key>
+		<string>板栗</string>
+		<key>SEDID</key>
+		<integer>10214</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>bi tao</string>
+		<key>NAME</key>
+		<string>碧桃</string>
+		<key>SEDID</key>
+		<integer>10056</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>bian bai</string>
+		<key>NAME</key>
+		<string>扁柏</string>
+		<key>SEDID</key>
+		<integer>10038</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ce bai</string>
+		<key>NAME</key>
+		<string>侧柏</string>
+		<key>SEDID</key>
+		<integer>10037</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>cha mei</string>
+		<key>NAME</key>
+		<string>茶梅</string>
+		<key>SEDID</key>
+		<integer>10099</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>cha shu</string>
+		<key>NAME</key>
+		<string>檫树</string>
+		<key>SEDID</key>
+		<integer>10194</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>chang chun teng</string>
+		<key>NAME</key>
+		<string>常春藤</string>
+		<key>SEDID</key>
+		<integer>10132</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>chi shan</string>
+		<key>NAME</key>
+		<string>池杉</string>
+		<key>SEDID</key>
+		<integer>10046</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>chou chun</string>
+		<key>NAME</key>
+		<string>臭椿</string>
+		<key>SEDID</key>
+		<integer>10019</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>chui liu</string>
+		<key>NAME</key>
+		<string>垂柳</string>
+		<key>SEDID</key>
+		<integer>10008</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>chui si hai tang</string>
+		<key>NAME</key>
+		<string>垂丝海棠</string>
+		<key>SEDID</key>
+		<integer>10111</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>chun juan</string>
+		<key>NAME</key>
+		<string>春鹃</string>
+		<key>SEDID</key>
+		<integer>10185</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ci bai</string>
+		<key>NAME</key>
+		<string>刺柏</string>
+		<key>SEDID</key>
+		<integer>10041</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>cong lan</string>
+		<key>NAME</key>
+		<string>葱兰</string>
+		<key>SEDID</key>
+		<integer>10225</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>da wu feng cao</string>
+		<key>NAME</key>
+		<string>大吴风草</string>
+		<key>SEDID</key>
+		<integer>10203</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>da ye huang yang</string>
+		<key>NAME</key>
+		<string>大叶黄杨</string>
+		<key>SEDID</key>
+		<integer>10088</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>da ye zhi zi hua</string>
+		<key>NAME</key>
+		<string>大叶栀子花</string>
+		<key>SEDID</key>
+		<integer>10102</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>dan gui</string>
+		<key>NAME</key>
+		<string>丹桂</string>
+		<key>SEDID</key>
+		<integer>10073</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>dan zhu</string>
+		<key>NAME</key>
+		<string>淡竹</string>
+		<key>SEDID</key>
+		<integer>10137</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>di tang</string>
+		<key>NAME</key>
+		<string>棣棠</string>
+		<key>SEDID</key>
+		<integer>10197</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ding xiang (zi ding xiang)</string>
+		<key>NAME</key>
+		<string>丁香(紫丁香)</string>
+		<key>SEDID</key>
+		<integer>10150</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>dong qing</string>
+		<key>NAME</key>
+		<string>冬青</string>
+		<key>SEDID</key>
+		<integer>10164</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>dou ban huang yang</string>
+		<key>NAME</key>
+		<string>豆瓣黄杨</string>
+		<key>SEDID</key>
+		<integer>10094</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>du juan</string>
+		<key>NAME</key>
+		<string>杜鹃</string>
+		<key>SEDID</key>
+		<integer>10117</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>du ying</string>
+		<key>NAME</key>
+		<string>杜英</string>
+		<key>SEDID</key>
+		<integer>10074</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>e zhang qiu （ma gua mu）</string>
+		<key>NAME</key>
+		<string>鹅掌楸（马褂木）</string>
+		<key>SEDID</key>
+		<integer>10068</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>er qiao yu lan</string>
+		<key>NAME</key>
+		<string>二乔玉兰</string>
+		<key>SEDID</key>
+		<integer>10067</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>fa guo dong qing (shan hu shu)</string>
+		<key>NAME</key>
+		<string>法国冬青(珊瑚树)</string>
+		<key>SEDID</key>
+		<integer>10163</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>fa tong （san qiu xuan ling mu）</string>
+		<key>NAME</key>
+		<string>法桐（三球悬铃木）</string>
+		<key>SEDID</key>
+		<integer>10160</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>feng hua yue ji</string>
+		<key>NAME</key>
+		<string>丰花月季</string>
+		<key>SEDID</key>
+		<integer>10219</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>feng wei lan</string>
+		<key>NAME</key>
+		<string>凤尾兰</string>
+		<key>SEDID</key>
+		<integer>10105</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>feng wei zhu</string>
+		<key>NAME</key>
+		<string>凤尾竹</string>
+		<key>SEDID</key>
+		<integer>10140</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>feng xiang</string>
+		<key>NAME</key>
+		<string>枫香</string>
+		<key>SEDID</key>
+		<integer>10051</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>feng yang</string>
+		<key>NAME</key>
+		<string>枫杨</string>
+		<key>SEDID</key>
+		<integer>10075</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>fu ji ni ya li</string>
+		<key>NAME</key>
+		<string>弗吉尼亚栎</string>
+		<key>SEDID</key>
+		<integer>10176</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>fu jia cao</string>
+		<key>NAME</key>
+		<string>佛甲草</string>
+		<key>SEDID</key>
+		<integer>10155</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>gang zhu</string>
+		<key>NAME</key>
+		<string>刚竹</string>
+		<key>SEDID</key>
+		<integer>10136</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>gao gan nu zhen</string>
+		<key>NAME</key>
+		<string>高杆女贞</string>
+		<key>SEDID</key>
+		<integer>10125</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>gua zi huang yang</string>
+		<key>NAME</key>
+		<string>瓜子黄杨</string>
+		<key>SEDID</key>
+		<integer>10089</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>guang yu lan</string>
+		<key>NAME</key>
+		<string>广玉兰</string>
+		<key>SEDID</key>
+		<integer>10064</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>gui bai</string>
+		<key>NAME</key>
+		<string>桧柏</string>
+		<key>SEDID</key>
+		<integer>10042</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>gui jia dong qing</string>
+		<key>NAME</key>
+		<string>龟甲冬青</string>
+		<key>SEDID</key>
+		<integer>10165</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>guo huai (huai shu)</string>
+		<key>NAME</key>
+		<string>国槐(槐树)</string>
+		<key>SEDID</key>
+		<integer>10078</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>guo shi liu</string>
+		<key>NAME</key>
+		<string>果石榴</string>
+		<key>SEDID</key>
+		<integer>10119</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hai tang hua</string>
+		<key>NAME</key>
+		<string>海棠花</string>
+		<key>SEDID</key>
+		<integer>10108</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hai tong</string>
+		<key>NAME</key>
+		<string>海桐</string>
+		<key>SEDID</key>
+		<integer>10107</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hai tong qiu</string>
+		<key>NAME</key>
+		<string>海桐球</string>
+		<key>SEDID</key>
+		<integer>10161</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>han liu</string>
+		<key>NAME</key>
+		<string>旱柳</string>
+		<key>SEDID</key>
+		<integer>10006</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>he hua</string>
+		<key>NAME</key>
+		<string>荷花</string>
+		<key>SEDID</key>
+		<integer>10145</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>he huan</string>
+		<key>NAME</key>
+		<string>合欢</string>
+		<key>SEDID</key>
+		<integer>10077</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hei song</string>
+		<key>NAME</key>
+		<string>黑松</string>
+		<key>SEDID</key>
+		<integer>10031</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong dou shan</string>
+		<key>NAME</key>
+		<string>红豆杉</string>
+		<key>SEDID</key>
+		<integer>10169</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong feng</string>
+		<key>NAME</key>
+		<string>红枫</string>
+		<key>SEDID</key>
+		<real>10018</real>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong guo dong qing</string>
+		<key>NAME</key>
+		<string>红果冬青</string>
+		<key>SEDID</key>
+		<integer>10237</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong hua cu jiang cao</string>
+		<key>NAME</key>
+		<string>红花酢酱草</string>
+		<key>SEDID</key>
+		<integer>10226</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong hua ji mu</string>
+		<key>NAME</key>
+		<string>红花檵木</string>
+		<key>SEDID</key>
+		<integer>10162</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong hua mu lian</string>
+		<key>NAME</key>
+		<string>红花木莲</string>
+		<key>SEDID</key>
+		<integer>10172</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong hua xiu xian ju</string>
+		<key>NAME</key>
+		<string>红花绣线菊</string>
+		<key>SEDID</key>
+		<integer>10209</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong mao zi yue ji</string>
+		<key>NAME</key>
+		<string>红帽子月季</string>
+		<key>SEDID</key>
+		<integer>10218</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong mei</string>
+		<key>NAME</key>
+		<string>红梅</string>
+		<key>SEDID</key>
+		<integer>10055</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong rui mu</string>
+		<key>NAME</key>
+		<string>红瑞木</string>
+		<key>SEDID</key>
+		<integer>10153</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong ye shi nan</string>
+		<key>NAME</key>
+		<string>红叶石楠</string>
+		<key>SEDID</key>
+		<integer>10157</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong ye xiao bo</string>
+		<key>NAME</key>
+		<string>红叶小檗</string>
+		<key>SEDID</key>
+		<integer>10152</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hong yu lan</string>
+		<key>NAME</key>
+		<string>红玉兰</string>
+		<key>SEDID</key>
+		<integer>10066</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hou pi xiang</string>
+		<key>NAME</key>
+		<string>厚皮香</string>
+		<key>SEDID</key>
+		<integer>10076</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hu tui zi</string>
+		<key>NAME</key>
+		<string>胡颓子</string>
+		<key>SEDID</key>
+		<integer>10177</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hua bai</string>
+		<key>NAME</key>
+		<string>花柏</string>
+		<key>SEDID</key>
+		<integer>10026</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hua mei</string>
+		<key>NAME</key>
+		<string>花梅</string>
+		<key>SEDID</key>
+		<integer>10053</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hua shi liu （yue ji shi liu）</string>
+		<key>NAME</key>
+		<string>花石榴（月季石榴）</string>
+		<key>SEDID</key>
+		<integer>10120</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hua tao</string>
+		<key>NAME</key>
+		<string>花桃</string>
+		<key>SEDID</key>
+		<integer>10057</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>hua ye man zhang chun</string>
+		<key>NAME</key>
+		<string>花叶蔓长春</string>
+		<key>SEDID</key>
+		<integer>10190</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>huang chang pu</string>
+		<key>NAME</key>
+		<string>黄菖蒲</string>
+		<key>SEDID</key>
+		<integer>10222</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>huang jin ju</string>
+		<key>NAME</key>
+		<string>黄金菊</string>
+		<key>SEDID</key>
+		<integer>10204</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>huang jin tiao</string>
+		<key>NAME</key>
+		<string>黄金条</string>
+		<key>SEDID</key>
+		<integer>10199</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>huang lian mu</string>
+		<key>NAME</key>
+		<string>黄连木</string>
+		<key>SEDID</key>
+		<integer>10220</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>huang shan luan shu</string>
+		<key>NAME</key>
+		<string>黄山栾树</string>
+		<key>SEDID</key>
+		<integer>10049</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>huang yang</string>
+		<key>NAME</key>
+		<string>黄杨</string>
+		<key>SEDID</key>
+		<integer>10087</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>huo ji</string>
+		<key>NAME</key>
+		<string>火棘</string>
+		<key>SEDID</key>
+		<integer>10121</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ji zhao qi</string>
+		<key>NAME</key>
+		<string>鸡爪槭</string>
+		<key>SEDID</key>
+		<integer>10016</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jia zhu tao</string>
+		<key>NAME</key>
+		<string>夹竹桃</string>
+		<key>SEDID</key>
+		<integer>10175</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jiang nan qi mu</string>
+		<key>NAME</key>
+		<string>江南桤木</string>
+		<key>SEDID</key>
+		<integer>10048</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jie xiang</string>
+		<key>NAME</key>
+		<string>结香</string>
+		<key>SEDID</key>
+		<integer>10182</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin bian huang yang</string>
+		<key>NAME</key>
+		<string>金边黄杨</string>
+		<key>SEDID</key>
+		<integer>10092</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin dai hua</string>
+		<key>NAME</key>
+		<string>锦带花</string>
+		<key>SEDID</key>
+		<integer>10231</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin gui</string>
+		<key>NAME</key>
+		<string>金桂</string>
+		<key>SEDID</key>
+		<integer>10081</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin qian song</string>
+		<key>NAME</key>
+		<string>金钱松</string>
+		<key>SEDID</key>
+		<integer>10035</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin sen nu zhen</string>
+		<key>NAME</key>
+		<string>金森女贞</string>
+		<key>SEDID</key>
+		<integer>10124</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin si chui liu</string>
+		<key>NAME</key>
+		<string>金丝垂柳</string>
+		<key>SEDID</key>
+		<integer>10009</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin si tao</string>
+		<key>NAME</key>
+		<string>金丝桃</string>
+		<key>SEDID</key>
+		<integer>10188</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin yan xiu xian ju</string>
+		<key>NAME</key>
+		<string>金焰绣线菊</string>
+		<key>SEDID</key>
+		<integer>10210</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin ye nu zhen</string>
+		<key>NAME</key>
+		<string>金叶女贞</string>
+		<key>SEDID</key>
+		<integer>10126</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>jin yin hua</string>
+		<key>NAME</key>
+		<string>金银花</string>
+		<key>SEDID</key>
+		<integer>10232</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ju shu</string>
+		<key>NAME</key>
+		<string>榉树</string>
+		<key>SEDID</key>
+		<integer>10060</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ju zi shu</string>
+		<key>NAME</key>
+		<string>橘子树</string>
+		<key>SEDID</key>
+		<integer>10003</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ku lian</string>
+		<key>NAME</key>
+		<string>苦楝</string>
+		<key>SEDID</key>
+		<integer>10004</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ku zhu</string>
+		<key>NAME</key>
+		<string>苦槠</string>
+		<key>SEDID</key>
+		<integer>10200</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>kuo ye shi da gong lao</string>
+		<key>NAME</key>
+		<string>阔叶十大功劳</string>
+		<key>SEDID</key>
+		<integer>10192</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>la mei (la mei)</string>
+		<key>NAME</key>
+		<string>腊梅(蜡梅)</string>
+		<key>SEDID</key>
+		<integer>10112</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>lang yu</string>
+		<key>NAME</key>
+		<string>榔榆</string>
+		<key>SEDID</key>
+		<integer>10052</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>le chang han xiao</string>
+		<key>NAME</key>
+		<string>乐昌含笑</string>
+		<key>SEDID</key>
+		<integer>10069</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>lian qiao</string>
+		<key>NAME</key>
+		<string>连翘</string>
+		<key>SEDID</key>
+		<integer>10149</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>lian shu</string>
+		<key>NAME</key>
+		<string>楝树</string>
+		<key>SEDID</key>
+		<integer>10023</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ling xiao</string>
+		<key>NAME</key>
+		<string>凌霄</string>
+		<key>SEDID</key>
+		<integer>10234</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>liu shan</string>
+		<key>NAME</key>
+		<string>柳杉</string>
+		<key>SEDID</key>
+		<integer>10034</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>long bai</string>
+		<key>NAME</key>
+		<string>龙柏</string>
+		<key>SEDID</key>
+		<integer>10040</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>long bai qiu</string>
+		<key>NAME</key>
+		<string>龙柏球</string>
+		<key>SEDID</key>
+		<integer>10166</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>long zhao huai</string>
+		<key>NAME</key>
+		<string>龙爪槐</string>
+		<key>SEDID</key>
+		<integer>10050</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>lu wei</string>
+		<key>NAME</key>
+		<string>芦苇</string>
+		<key>SEDID</key>
+		<integer>10230</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>luan shu</string>
+		<key>NAME</key>
+		<string>栾树</string>
+		<key>SEDID</key>
+		<integer>10021</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>luo han bai</string>
+		<key>NAME</key>
+		<string>罗汉柏</string>
+		<key>SEDID</key>
+		<integer>10044</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>luo han song</string>
+		<key>NAME</key>
+		<string>罗汉松</string>
+		<key>SEDID</key>
+		<integer>10072</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>luo mu shi nan</string>
+		<key>NAME</key>
+		<string>椤木石楠</string>
+		<key>SEDID</key>
+		<integer>10156</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>luo yu shan</string>
+		<key>NAME</key>
+		<string>落羽杉</string>
+		<key>SEDID</key>
+		<integer>10036</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ma ye xiu qiu</string>
+		<key>NAME</key>
+		<string>麻叶绣球</string>
+		<key>SEDID</key>
+		<integer>10236</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mai dong</string>
+		<key>NAME</key>
+		<string>麦冬</string>
+		<key>SEDID</key>
+		<integer>10147</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mao bai yang</string>
+		<key>NAME</key>
+		<string>毛白杨</string>
+		<key>SEDID</key>
+		<integer>10010</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mao juan</string>
+		<key>NAME</key>
+		<string>毛鹃</string>
+		<key>SEDID</key>
+		<integer>10184</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mao zhu</string>
+		<key>NAME</key>
+		<string>毛竹</string>
+		<key>SEDID</key>
+		<integer>10142</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mei hua</string>
+		<key>NAME</key>
+		<string>梅花</string>
+		<key>SEDID</key>
+		<integer>10054</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mei ren jiao</string>
+		<key>NAME</key>
+		<string>美人蕉</string>
+		<key>SEDID</key>
+		<integer>10233</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mei ren mei</string>
+		<key>NAME</key>
+		<string>美人梅</string>
+		<key>SEDID</key>
+		<integer>10097</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mu fu rong</string>
+		<key>NAME</key>
+		<string>木芙蓉</string>
+		<key>SEDID</key>
+		<integer>10116</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mu he</string>
+		<key>NAME</key>
+		<string>木荷</string>
+		<key>SEDID</key>
+		<integer>10083</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mu jin</string>
+		<key>NAME</key>
+		<string>木槿</string>
+		<key>SEDID</key>
+		<integer>10115</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mu xiang</string>
+		<key>NAME</key>
+		<string>木香</string>
+		<key>SEDID</key>
+		<integer>10205</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>mu xiu qiu</string>
+		<key>NAME</key>
+		<string>木绣球</string>
+		<key>SEDID</key>
+		<integer>10206</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>nan tian zhu</string>
+		<key>NAME</key>
+		<string>南天竹</string>
+		<key>SEDID</key>
+		<integer>10144</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>nu zhen</string>
+		<key>NAME</key>
+		<string>女贞</string>
+		<key>SEDID</key>
+		<integer>10122</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>pa shan hu</string>
+		<key>NAME</key>
+		<string>爬山虎</string>
+		<key>SEDID</key>
+		<integer>10135</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>pi pa</string>
+		<key>NAME</key>
+		<string>枇杷</string>
+		<key>SEDID</key>
+		<integer>10167</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>pu de bai</string>
+		<key>NAME</key>
+		<string>铺地柏</string>
+		<key>SEDID</key>
+		<integer>10043</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>pu shu</string>
+		<key>NAME</key>
+		<string>朴树</string>
+		<key>SEDID</key>
+		<integer>10011</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>qi ye shu</string>
+		<key>NAME</key>
+		<string>七叶树</string>
+		<key>SEDID</key>
+		<integer>10022</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>qian bi bai （bei mei yuan bai）</string>
+		<key>NAME</key>
+		<string>铅笔柏（北美圆柏）</string>
+		<key>SEDID</key>
+		<integer>10027</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>qian qu cai</string>
+		<key>NAME</key>
+		<string>千屈菜</string>
+		<key>SEDID</key>
+		<integer>10229</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>qian tou bai</string>
+		<key>NAME</key>
+		<string>千头柏</string>
+		<key>SEDID</key>
+		<integer>10025</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>qing gang li</string>
+		<key>NAME</key>
+		<string>青冈栎</string>
+		<key>SEDID</key>
+		<integer>10084</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>qing tong</string>
+		<key>NAME</key>
+		<string>青桐</string>
+		<key>SEDID</key>
+		<integer>10085</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>qiu shu</string>
+		<key>NAME</key>
+		<string>楸树</string>
+		<key>SEDID</key>
+		<integer>10189</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>que she huang yang</string>
+		<key>NAME</key>
+		<string>雀舌黄杨</string>
+		<key>SEDID</key>
+		<integer>10090</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ruo zhu</string>
+		<key>NAME</key>
+		<string>箬竹</string>
+		<key>SEDID</key>
+		<integer>10141</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>sa jin bai</string>
+		<key>NAME</key>
+		<string>洒金柏</string>
+		<key>SEDID</key>
+		<integer>10174</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>sa jin shan hu</string>
+		<key>NAME</key>
+		<string>洒金珊瑚</string>
+		<key>SEDID</key>
+		<integer>10047</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>sa jin tao ye shan hu</string>
+		<key>NAME</key>
+		<string>洒金桃叶珊瑚</string>
+		<key>SEDID</key>
+		<integer>10208</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>san fang jue ming</string>
+		<key>NAME</key>
+		<string>伞房决明</string>
+		<key>SEDID</key>
+		<integer>10193</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>san jiao feng (san jiao qi)</string>
+		<key>NAME</key>
+		<string>三角枫(三角槭)</string>
+		<key>SEDID</key>
+		<integer>10015</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shan cha hua （cha hua）</string>
+		<key>NAME</key>
+		<string>山茶花（茶花）</string>
+		<key>SEDID</key>
+		<integer>10095</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shan hu pu</string>
+		<key>NAME</key>
+		<string>珊瑚朴</string>
+		<key>SEDID</key>
+		<integer>10012</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shan ma gan</string>
+		<key>NAME</key>
+		<string>山麻杆</string>
+		<key>SEDID</key>
+		<integer>10179</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shan zha</string>
+		<key>NAME</key>
+		<string>山楂</string>
+		<key>SEDID</key>
+		<integer>10215</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shen shan han xiao</string>
+		<key>NAME</key>
+		<string>深山含笑</string>
+		<key>SEDID</key>
+		<integer>10070</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shi chang pu</string>
+		<key>NAME</key>
+		<string>石菖蒲</string>
+		<key>SEDID</key>
+		<integer>10223</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shi da gong lao</string>
+		<key>NAME</key>
+		<string>十大功劳</string>
+		<key>SEDID</key>
+		<integer>10104</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shi de song</string>
+		<key>NAME</key>
+		<string>湿地松</string>
+		<key>SEDID</key>
+		<integer>10032</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shi liu</string>
+		<key>NAME</key>
+		<string>石榴</string>
+		<key>SEDID</key>
+		<integer>10118</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shi nan</string>
+		<key>NAME</key>
+		<string>石楠</string>
+		<key>SEDID</key>
+		<integer>10158</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shi shu</string>
+		<key>NAME</key>
+		<string>柿树</string>
+		<key>SEDID</key>
+		<integer>10181</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shi suan</string>
+		<key>NAME</key>
+		<string>石蒜</string>
+		<key>SEDID</key>
+		<integer>10224</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shou xing tao</string>
+		<key>NAME</key>
+		<string>寿星桃</string>
+		<key>SEDID</key>
+		<integer>10058</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shui la</string>
+		<key>NAME</key>
+		<string>水蜡</string>
+		<key>SEDID</key>
+		<integer>10240</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shui la</string>
+		<key>NAME</key>
+		<string>水腊</string>
+		<key>SEDID</key>
+		<integer>10123</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shui lian</string>
+		<key>NAME</key>
+		<string>睡莲</string>
+		<key>SEDID</key>
+		<integer>10146</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>shui shan</string>
+		<key>NAME</key>
+		<string>水杉</string>
+		<key>SEDID</key>
+		<integer>10045</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>si ji gui</string>
+		<key>NAME</key>
+		<string>四季桂</string>
+		<key>SEDID</key>
+		<integer>10013</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>si lan</string>
+		<key>NAME</key>
+		<string>丝兰</string>
+		<key>SEDID</key>
+		<integer>10195</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>su tie</string>
+		<key>NAME</key>
+		<string>苏铁</string>
+		<key>SEDID</key>
+		<integer>10100</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>tao hua</string>
+		<key>NAME</key>
+		<string>桃花</string>
+		<key>SEDID</key>
+		<integer>10059</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>tao ye shan hu</string>
+		<key>NAME</key>
+		<string>桃叶珊瑚</string>
+		<key>SEDID</key>
+		<integer>10207</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>tie geng hai tang （zhou pi mu gua）</string>
+		<key>NAME</key>
+		<string>贴梗海棠（皱皮木瓜）</string>
+		<key>SEDID</key>
+		<integer>10110</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>tie shu</string>
+		<key>NAME</key>
+		<string>铁树</string>
+		<key>SEDID</key>
+		<integer>10196</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>wan nian qing</string>
+		<key>NAME</key>
+		<string>万年青</string>
+		<key>SEDID</key>
+		<integer>10130</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>wan ying</string>
+		<key>NAME</key>
+		<string>晚樱</string>
+		<key>SEDID</key>
+		<integer>10062</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>wei mao</string>
+		<key>NAME</key>
+		<string>卫矛</string>
+		<key>SEDID</key>
+		<integer>10239</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>wen mu shu</string>
+		<key>NAME</key>
+		<string>蚊母树</string>
+		<key>SEDID</key>
+		<integer>10086</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>wu ci gou gu</string>
+		<key>NAME</key>
+		<string>无刺构骨</string>
+		<key>SEDID</key>
+		<integer>10198</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>wu hua guo</string>
+		<key>NAME</key>
+		<string>无花果</string>
+		<key>SEDID</key>
+		<integer>10183</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>wu huan zi</string>
+		<key>NAME</key>
+		<string>无患子</string>
+		<key>SEDID</key>
+		<integer>10014</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>wu jiu</string>
+		<key>NAME</key>
+		<string>乌桕</string>
+		<key>SEDID</key>
+		<integer>10079</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>wu zhen song</string>
+		<key>NAME</key>
+		<string>五针松</string>
+		<key>SEDID</key>
+		<integer>10033</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xi fu hai tang</string>
+		<key>NAME</key>
+		<string>西府海棠</string>
+		<key>SEDID</key>
+		<integer>10109</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xi shu</string>
+		<key>NAME</key>
+		<string>喜树</string>
+		<key>SEDID</key>
+		<integer>10024</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xia juan</string>
+		<key>NAME</key>
+		<string>夏鹃</string>
+		<key>SEDID</key>
+		<integer>10186</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xia ye shi da gong lao</string>
+		<key>NAME</key>
+		<string>狭叶十大功劳</string>
+		<key>SEDID</key>
+		<integer>10191</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xiang chun</string>
+		<key>NAME</key>
+		<string>香椿</string>
+		<key>SEDID</key>
+		<integer>10020</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xiang pao</string>
+		<key>NAME</key>
+		<string>香泡</string>
+		<key>SEDID</key>
+		<integer>10154</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xiang zhang</string>
+		<key>NAME</key>
+		<string>香樟</string>
+		<key>SEDID</key>
+		<integer>10002</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xiao bo</string>
+		<key>NAME</key>
+		<string>小檗</string>
+		<key>SEDID</key>
+		<integer>10151</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xiao shun zhu</string>
+		<key>NAME</key>
+		<string>孝顺竹</string>
+		<key>SEDID</key>
+		<integer>10139</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xiao ye fu fang teng</string>
+		<key>NAME</key>
+		<string>小叶扶芳藤</string>
+		<key>SEDID</key>
+		<integer>10134</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xiao ye huang yang</string>
+		<key>NAME</key>
+		<string>小叶黄杨</string>
+		<key>SEDID</key>
+		<integer>10091</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xiao ye nu zhen</string>
+		<key>NAME</key>
+		<string>小叶女贞</string>
+		<key>SEDID</key>
+		<integer>10127</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xiao ye zhi zi hua</string>
+		<key>NAME</key>
+		<string>小叶栀子花</string>
+		<key>SEDID</key>
+		<integer>10103</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xing shu</string>
+		<key>NAME</key>
+		<string>杏树</string>
+		<key>SEDID</key>
+		<integer>10168</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xuan ling mu</string>
+		<key>NAME</key>
+		<string>悬铃木</string>
+		<key>SEDID</key>
+		<integer>10159</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>xue song</string>
+		<key>NAME</key>
+		<string>雪松</string>
+		<key>SEDID</key>
+		<integer>10029</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ya ju</string>
+		<key>NAME</key>
+		<string>亚菊</string>
+		<key>SEDID</key>
+		<integer>10228</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yan fu mu</string>
+		<key>NAME</key>
+		<string>盐肤木</string>
+		<key>SEDID</key>
+		<integer>10238</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yang mei</string>
+		<key>NAME</key>
+		<string>杨梅</string>
+		<key>SEDID</key>
+		<integer>10170</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yi yang</string>
+		<key>NAME</key>
+		<string>意杨</string>
+		<key>SEDID</key>
+		<integer>10216</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yin bian huang yang</string>
+		<key>NAME</key>
+		<string>银边黄杨</string>
+		<key>SEDID</key>
+		<integer>10093</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yin gui</string>
+		<key>NAME</key>
+		<string>银桂</string>
+		<key>SEDID</key>
+		<integer>10082</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yin liu</string>
+		<key>NAME</key>
+		<string>银柳</string>
+		<key>SEDID</key>
+		<integer>10007</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yin xing</string>
+		<key>NAME</key>
+		<string>银杏</string>
+		<key>SEDID</key>
+		<integer>10005</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ying chun</string>
+		<key>NAME</key>
+		<string>迎春</string>
+		<key>SEDID</key>
+		<integer>10148</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ying hua</string>
+		<key>NAME</key>
+		<string>樱花</string>
+		<key>SEDID</key>
+		<integer>10061</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>ying tao</string>
+		<key>NAME</key>
+		<string>樱桃</string>
+		<key>SEDID</key>
+		<integer>10178</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>you tong</string>
+		<key>NAME</key>
+		<string>油桐</string>
+		<key>SEDID</key>
+		<integer>10212</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>you zi</string>
+		<key>NAME</key>
+		<string>柚子</string>
+		<key>SEDID</key>
+		<integer>10211</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yu mao feng</string>
+		<key>NAME</key>
+		<string>羽毛枫</string>
+		<key>SEDID</key>
+		<integer>10213</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yu shu</string>
+		<key>NAME</key>
+		<string>榆树</string>
+		<key>SEDID</key>
+		<integer>10235</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yu ye mei</string>
+		<key>NAME</key>
+		<string>榆叶梅</string>
+		<key>SEDID</key>
+		<integer>10096</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yu zan</string>
+		<key>NAME</key>
+		<string>玉簪</string>
+		<key>SEDID</key>
+		<integer>10221</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yuan bai</string>
+		<key>NAME</key>
+		<string>圆柏</string>
+		<key>SEDID</key>
+		<integer>10039</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yuan wei</string>
+		<key>NAME</key>
+		<string>鸢尾</string>
+		<key>SEDID</key>
+		<integer>10201</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>yue ji hua</string>
+		<key>NAME</key>
+		<string>月季花</string>
+		<key>SEDID</key>
+		<integer>10106</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zao jia shu</string>
+		<key>NAME</key>
+		<string>皂荚树</string>
+		<key>SEDID</key>
+		<integer>10129</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zao shu</string>
+		<key>NAME</key>
+		<string>枣树</string>
+		<key>SEDID</key>
+		<integer>10180</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zao yuan zhu</string>
+		<key>NAME</key>
+		<string>早园竹</string>
+		<key>SEDID</key>
+		<integer>10138</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zhen zhu mei</string>
+		<key>NAME</key>
+		<string>珍珠梅</string>
+		<key>SEDID</key>
+		<integer>10098</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zhi zi hua</string>
+		<key>NAME</key>
+		<string>栀子花</string>
+		<key>SEDID</key>
+		<integer>10101</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zhong hua chang chun teng</string>
+		<key>NAME</key>
+		<string>中华常春藤</string>
+		<key>SEDID</key>
+		<integer>10133</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zhong shan shan</string>
+		<key>NAME</key>
+		<string>中山杉</string>
+		<key>SEDID</key>
+		<integer>10028</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zhong yang mu</string>
+		<key>NAME</key>
+		<string>重阳木</string>
+		<key>SEDID</key>
+		<integer>10080</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zi jing</string>
+		<key>NAME</key>
+		<string>紫荆</string>
+		<key>SEDID</key>
+		<integer>10113</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zi juan</string>
+		<key>NAME</key>
+		<string>紫鹃</string>
+		<key>SEDID</key>
+		<integer>10187</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zi teng</string>
+		<key>NAME</key>
+		<string>紫藤</string>
+		<key>SEDID</key>
+		<integer>10131</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zi wei</string>
+		<key>NAME</key>
+		<string>紫薇</string>
+		<key>SEDID</key>
+		<integer>10128</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zi ye li</string>
+		<key>NAME</key>
+		<string>紫叶李</string>
+		<key>SEDID</key>
+		<integer>10063</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zi ye shan ben cu jiang cao</string>
+		<key>NAME</key>
+		<string>紫叶山本酢酱草</string>
+		<key>SEDID</key>
+		<integer>10227</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zi ye tao</string>
+		<key>NAME</key>
+		<string>紫叶桃</string>
+		<key>SEDID</key>
+		<integer>10217</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zi yu lan</string>
+		<key>NAME</key>
+		<string>紫玉兰</string>
+		<key>SEDID</key>
+		<integer>10065</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zi zhu</string>
+		<key>NAME</key>
+		<string>紫竹</string>
+		<key>SEDID</key>
+		<integer>10143</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zong lu</string>
+		<key>NAME</key>
+		<string>棕榈</string>
+		<key>SEDID</key>
+		<integer>10001</integer>
+	</dict>
+	<dict>
+		<key>LETTER</key>
+		<string>zui yu cao</string>
+		<key>NAME</key>
+		<string>醉鱼草</string>
+		<key>SEDID</key>
+		<integer>10202</integer>
+	</dict>
+</array>
+</plist>
